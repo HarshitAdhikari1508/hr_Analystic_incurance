@@ -19,9 +19,7 @@ This project involves a comprehensive analysis of an insurance company's workfor
 * **Concepts:** Data Modeling, Trend Analysis, UI/UX Design (Neon Dark Theme).
 
 ## 📂 Project Structure
-* `Insurance_HR_Data.csv`: Raw dataset.
-* `HR_Analytics_Dashboard.pbix`: Power BI source file.
-* `Screenshots/`: High-resolution dashboard captures.
+* `hr_Analystic_incurance.pbix`: Power BI source file.
 
 ## 💡 How to View
 1. Download the `.pbix` file.
